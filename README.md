@@ -1,15 +1,19 @@
-<!-- 배너 -->
+<!-- HEADER BANNER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Dseine&fontSize=60&fontAlign=50&fontAlignY=40&desc=Unity%20Game%20Developer&descAlign=50&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Dseine&fontSize=60&fontAlign=50&fontAlignY=40&desc=Unity%20Game%20Developer&descAlign=50&descAlignY=65"/>
 </p>
 
-<h3 align="center">🎮 Indie Game Developer | Unity | C#</h3>
+<!-- TYPING INTRO -->
 
 <p align="center">
-<a href="https://github.com/Dseine">
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Dseine&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/>
-</a>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=28&center=true&vCenter=true&width=600&lines=Indie+Game+Developer;Unity+Gameplay+Programmer;Making+Games+for+Fun+🎮"/>
+</p>
+
+<!-- PROFILE VIEWS -->
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Dseine0408&label=Profile%20views&color=blueviolet&style=flat"/>
 </p>
 
 ---
@@ -21,26 +25,26 @@ Name: Dseine
 Role: Indie Game Developer
 Main Engine: Unity
 Language: C#
-Focus: Gameplay / VFX / Systems
+Focus: Gameplay / Systems
 ```
 
-* 🎮 Currently developing **Unity Indie Games**
-* 🧠 Learning **Shader / VFX / Optimization**
+* 🎮 Developing **Unity Indie Games**
 * ⚔ Interested in **Combat Systems & Game Feel**
+* 🧠 Studying **Game Architecture & Optimization**
 
 ---
 
-# 🚀 Tech Stack
+# 🎮 Game Development
 
-### Game Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=unity,cs,blender"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=unity,cs"/>
 </p>
 
-### Tools
+---
 
-<p>
+# 🧰 Tools
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=git,github,visualstudio"/>
 </p>
 
@@ -49,11 +53,16 @@ Focus: Gameplay / VFX / Systems
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Dseine&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dseine0408&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dseine0408&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
+---
+
+# 🔥 GitHub Streak
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dseine&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dseine0408&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -61,28 +70,45 @@ Focus: Gameplay / VFX / Systems
 # 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Dseine&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Dseine0408&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
 </p>
 
 ---
 
-# 🔥 Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dseine&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dseine0408&theme=tokyo-night&hide_border=true"/>
 </p>
+
+---
+
+# 🎮 My Projects
+
+| Project         | Description               |
+| --------------- | ------------------------- |
+| 🎮 Indie Game   | Unity Indie Game Project  |
+| ⚔ Combat System | Gameplay Combat Mechanics |
+| 🧟 Zombie Game  | Top-down Zombie Survival  |
 
 ---
 
 # 📫 Contact
 
 📧 Email
-
-```
-dseine6@gmail.com
-```
+[dseine6@gmail.com](mailto:dseine6@gmail.com)
 
 ---
+
+# 🐍 Contributions Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Dseine0408/Dseine0408/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+<!-- FOOTER -->
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=120&section=footer"/>
