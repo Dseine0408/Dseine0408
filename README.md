@@ -1,7 +1,7 @@
 <!-- HEADER BANNER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Dseine&fontSize=60&fontAlign=50&fontAlignY=40&desc=Unity%20Game%20Developer&descAlign=50&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Dseine&fontSize=60&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=Unity%20Game%20Developer&descAlign=50&descAlignY=65&descColor=ffffff"/>
 </p>
 
 <!-- TYPING INTRO -->
@@ -20,17 +20,15 @@
 
 # 👋 About Me
 
-```yaml
-Name: Dseine
-Role: Indie Game Developer
-Main Engine: Unity
-Language: C#
-Focus: Gameplay / Systems
-```
+Name: **Dseine**  
+Role: **Indie Game Developer**  
+Main Engine: **Unity**  
+Language: **C#**  
+Focus: **Gameplay / Systems**
 
-* 🎮 Developing **Unity Indie Games**
-* ⚔ Interested in **Combat Systems & Game Feel**
-* 🧠 Studying **Game Architecture & Optimization**
+- 🎮 Developing **Unity Indie Games**
+- ⚔ Interested in **Combat Systems & Game Feel**
+- 🧠 Studying **Game Architecture & Optimization**
 
 ---
 
@@ -50,27 +48,10 @@ Focus: Gameplay / Systems
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Dseine0408&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dseine0408&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 # 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dseine0408&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Dseine0408&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
 </p>
 
 ---
@@ -83,28 +64,10 @@ Focus: Gameplay / Systems
 
 ---
 
-# 🎮 My Projects
-
-| Project         | Description               |
-| --------------- | ------------------------- |
-| 🎮 Indie Game   | Unity Indie Game Project  |
-| ⚔ Combat System | Gameplay Combat Mechanics |
-| 🧟 Zombie Game  | Top-down Zombie Survival  |
-
----
-
 # 📫 Contact
 
-📧 Email
+📧 Email  
 [dseine6@gmail.com](mailto:dseine6@gmail.com)
-
----
-
-# 🐍 Contributions Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Dseine0408/Dseine0408/output/github-contribution-grid-snake.svg"/>
-</p>
 
 ---
 
