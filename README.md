@@ -19,21 +19,7 @@
 
 # 👋 About Me
 
-Name: **Dseine** Role: **Indie Game Developer** Main Engine: **Unity** Language: **C#** Focus: **Gameplay / Systems**
-
-- 🎮 Developing **Unity Indie Games**
-- ⚔ Interested in **Combat Systems & Game Feel**
-- 🧠 Studying **Game Architecture & Optimization**
-
----
-
-# 🎮 Game Development
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=unity,cs"/>
-</p>
-
----
+Name: **Dseine** Main Engine: **Unity** Language: **C#** Focus: **Gameplay / Systems**
 
 # 🧰 Tools
 
