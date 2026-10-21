@@ -49,14 +49,6 @@ Language: **C#**
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Dseine0408&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
 # 📫 Contact
 
 📧 이메일  
