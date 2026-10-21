@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Dseine&fontSize=60&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=Unity%20Game%20Developer&descAlign=50&descAlignY=65&descColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=ray2ray&fontSize=60&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=Unity%20Game%20Developer&descAlign=50&descAlignY=65&descColor=ffffff"/>
 </p>
 
 <p align="center">
@@ -21,8 +21,7 @@
 
 Name: **ray2ray**  
 Main Engine: **Unity**  
-Language: **C#**  
-Focus: **게임플레이 / 시스템**
+Language: **C#**
 
 ---
 
