@@ -19,15 +19,10 @@
 
 # 👋 About Me
 
-Name: **Dseine**  
-Role: **인디 게임 개발자**  
+Name: **ray2ray**  
 Main Engine: **Unity**  
 Language: **C#**  
 Focus: **게임플레이 / 시스템**
-
-- 🎮 **Unity 기반 인디 게임**을 개발하고 있습니다.
-- ⚔ **전투 시스템과 타격감(Game Feel)** 구현에 관심이 많습니다.
-- 🧠 효율적인 **게임 아키텍처 설계와 최적화**를 꾸준히 공부합니다.
 
 ---
 
